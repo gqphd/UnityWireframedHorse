@@ -22,6 +22,8 @@ You can move camera freely with your mouse, and WASD keyboard keys.
 
 ... and that is pretty much it.
 
+![](Thumbnail.png)
+
  
 
 Used open source, and disclaims responsibilites upon using those.
